@@ -90,16 +90,25 @@
 
 export const experts = [
     {
+        name: {
+            en: 'Ahmed Ashmawy', fa: 'احمد عشماوی', ar: 'أحمد عشماوي' },
+        position: 'CEO - Chief Executive Officer',
+        phone: '+968-98975295',
+        email: 'it@aiastratech.com',
+        image: 'Expt0.png',
+    },
+
+    {
         name: { en: 'Eslam Ahmed', fa: 'اسلام احمد', ar: 'اسلام احمد' },
         position:'Sales & account manager',
-        phone: '+968-95259599',
+        phone: '+968-98975295',
         email: 'it@aiastratech.com',
         image: 'Expt1.png',
     },
     {
         name: { en: 'Yousef Mirzadeh', fa: 'یوسف میرزاده', ar: 'یوسف میرزاده' },
         position: 'IT& Software manager',
-        phone: '+968-98097679',
+        phone: '+968-98975295',
         email: 'it@aiastratech.com',
         image: 'Expt2.png',
     },
@@ -113,7 +122,7 @@ export const experts = [
     {
         name: { en: 'Mahdieh Kazemi', fa: 'مهدیه کاظمی', ar: 'مهدیه کاظمی' },
         position: 'Account& finance manager',
-        phone: '+968-78186195',
+        phone: '+968-98975295',
         email: 'it@aiastratech.com',
         image: 'Expt4.png',
     },
@@ -125,7 +134,7 @@ export const contactInfo = {
         fa: 'نوآوری‌های آستراتک',
         ar: 'ابتكارات أستراتك',
     },
-    phone: '+968-95259599',
+    phone: '+968-98975295',
     email: 'it@aiastratech.com',
     website: 'aiastratech.com',
     instagram: 'https://instagram.com/astraoman?igsh=cGdienNhaHY1bms5', // لینک واقعی رو بذار
